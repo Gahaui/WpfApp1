@@ -6,8 +6,10 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <StackPanel>
         <Button Width="120" Height="50" Background="Red">test nut nhan</Button>
-        <Button Width="120" Height="50" Background="Red">test nut nhanxxxx</Button>
-    </Grid>
+        <Button Width="120" Height="50" Background="Orange">test nut nhanxxxx</Button>
+        <Button Width="120" Height="50" Background="Gray">test nut nhanxxxx</Button>
+        <Button Width="120" Height="50" Background="Green">test nut nhanxxxx</Button>
+    </StackPanel>
 </Window>
